@@ -11,7 +11,7 @@ Ce dépôt rassemble l'ensemble des livrables et ressources réalisés dans le c
 
 ## Auteur
 
-* **Nom / Prénom** : [Mehdi ...]
+* **Nom / Prénom** : [Mehdi Chakouchi]
 * **Établissement** : Faculté des Sciences de Tétouan – Université Abdelmalek Essaadi
 
 ## Licence
