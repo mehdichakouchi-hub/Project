@@ -16,4 +16,4 @@ Ce dépôt rassemble l'ensemble des livrables et ressources réalisés dans le c
 
 ## Licence
 
-Ce projet est mis à disposition sous licence [CC BY 4.0 / MIT — ...].
+Ce projet est mis à disposition sous licence [CC BY 4.0 / MIT].

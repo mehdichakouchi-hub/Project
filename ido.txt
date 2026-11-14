@@ -1,1 +1,2 @@
-test 2
+this is just a start for my ecosystem!
+it currently has just 2 files, a readme and a text file! 
